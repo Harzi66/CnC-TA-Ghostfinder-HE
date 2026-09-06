@@ -7,6 +7,8 @@
 // @contributor  bloofi
 // @contributor  ffi82
 // @match        https://*.alliances.commandandconquer.com/*/*
+// @downloadURL  https://raw.githubusercontent.com/Harzi66/CnC-TA-Ghostfinder-HE/main/CnC-TA-Ghostfinder-HE.user.js
+// @updateURL    https://raw.githubusercontent.com/Harzi66/CnC-TA-Ghostfinder-HE/main/CnC-TA-Ghostfinder-HE.user.js
 // @grant        none
 // ==/UserScript==
 
