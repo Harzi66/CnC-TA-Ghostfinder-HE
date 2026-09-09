@@ -67,6 +67,14 @@ Die gefundenen Basen werden direkt auf der Karte dargestellt. Die roten Kreise m
 
 ---
 
+### Main-Basen auf der Karte
+
+Die gefundenen Main-Basen werden direkt auf der Karte dargestellt. Die blauen Kreise markieren die Main-Basen; zusätzlich werden Basisname und Besitzer angezeigt.
+
+![Ghosts auf der Karte](Screenshot_4.png)
+
+---
+
 ## 🌐 Sprache
 
 Die Sprache kann direkt im Ghostfinder über die Sprachauswahl geändert werden.
