@@ -40,6 +40,7 @@ Das Script basiert auf dem **CnCTA Base Finder** und wurde für die Harzi-Editio
 Das Script wird über das **Scripte-Menü** im Spiel geöffnet.
 
 ![Ghostfinder Oberfläche](Screenshot_1.png)
+![Ghostfinder Oberfläche](Screenshot_5.png)
 
 ---
 
